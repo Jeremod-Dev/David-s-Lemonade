@@ -55,14 +55,14 @@ même vouloir faire des affaires avec les producteurs présent, promu par l'asso
 
 ###### [Retour sommaire](#sommaire)
 ## - III.La charte graphique - <a id="graphisme"></a>
-
-###### [Retour sommaire](#sommaire)
-## - IV.Les maquettes - <a id="maquette"></a>
 ### 3.1 - Les couleurs
 Pour le choix graphique du projet, nous avons choisi de suivre l’identité qu’impose David’s Lemonade. Nonobstant, nous avons fait le choix, de moderniser le style avec des tons plus pastel, tout en ayant certaines couleurs vives pour garder ce côté acidulé qui rappelle le produit.
 
 ### 3.2 - La font
-### 3.3 - Les maquettes
+
+###### [Retour sommaire](#sommaire)
+## - IV.Les maquettes - <a id="maquette"></a>
+
 
 ###### [Retour sommaire](#sommaire)
 ## - V.Correction et validation du code - <a id="correction"></a>
