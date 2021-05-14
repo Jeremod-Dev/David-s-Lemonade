@@ -75,7 +75,7 @@ Pour le choix de la font, j'en ai sélectionné deux. La première font est dest
 Pour préparer au mieux le site, j'ai fait un brainstorming sur papier puis fait une maquette en [low-fidelity](#glossaire)
 ![Maquette sur papier](/image/maquette1.JPG)
 
-Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. Nous avons continué la maquette, mais cette fois-ci de plus haut niveau. Lorsque nous avons eu notre maquette en low-fidelity, nous avons conçu une maquette pour les smartphones. Pour cette version du site, nous avons fait le choix de la simplicité d’utilisation, car le tactile d’un téléphone portable n’étant pas forcément bien pris en main par l’ensemble de la cible du site. Toutes nos images sont libres de droits trouvé essentiellement sur [pixabay](https://www.pixabay.com).
+Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. J'ai continué la maquette, mais cette fois-ci de plus haut niveau. Lorsque nous avons eu notre maquette en low-fidelity, nous avons conçu une maquette pour les smartphones. Pour cette version du site, j'ai fait le choix de la simplicité d’utilisation, car le tactile d’un téléphone portable n’étant pas forcément bien pris en main par l’ensemble de la cible du site. Toutes nos images sont libres de droits trouvé essentiellement sur [pixabay](https://www.pixabay.com).
 
 ![Maquette sur papier](/image/maquette2.JPG)
 
@@ -88,7 +88,7 @@ Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. Nous a
 ###### [Retour sommaire](#sommaire)
 ## - V.Correction et validation du code - <a id="correction"></a>
 
-Afin de vérifier que notre code admet pas d’erreur, nous avons passé notre site(1) dans le validateur du site W3C. Nous avons par la suite corrigé les erreurs éventuelles afin qu’il n’y en reste plus. Nous avons également ajouté un logotype proposer par le validateur pour avertir le visiteur et le client que le site est valide.Ce logotype est tout à fait optionnel mais dans le cadre du projet universitaire, cela nous permet d’assurer la conformité du code.
+Afin de vérifier que le code n'admet pas d’erreur, nous avons passé notre site(1) dans le validateur du site W3C. J'ai par la suite corrigé les erreurs éventuelles afin qu’il n’y en reste plus. J'ai également ajouté un logotype proposer par le validateur pour prévenir le visiteur et le client que le site est valide. Ce logotype est tout à fait optionnel mais dans le cadre du projet universitaire, cela me permets d’assurer la conformité du code.
 
 ![Maquette sur papier](/image/validation1.JPG)
 
