@@ -71,6 +71,10 @@ Pour le choix de la font, j'en ai sélectionné deux. La première font est dest
 ## - IV.Les maquettes - <a id="maquette"></a>
 
 Pour préparer au mieux le site, j'ai fait un brainstorming sur papier puis fait une maquette en [low-fidelity](#glossaire)
+![Maquette sur papier](/image/maquette1.JPG)
+
+Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. Nous avons continué la maquette, mais cette fois-ci de plus haut niveau. Lorsque nous avons eu notre maquette en low-fidelity, nous avons conçu une maquette pour les smartphones. Pour cette version du site, nous avons fait le choix de la simplicité d’utilisation, car le tactile d’un téléphone portable n’étant pas forcément bien pris en main par l’ensemble de la cible du site. Toutes nos images sont libres de droits trouvé essentiellement sur [pixabay](https://www.pixabay.com).
+
 
 ###### [Retour sommaire](#sommaire)
 ## - V.Correction et validation du code - <a id="correction"></a>
