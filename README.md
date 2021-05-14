@@ -1,5 +1,7 @@
 # David's Lemonade
 
+[Liens vers le site](https://davids-lemonade-iut.000webhostapp.com/)
+
 ## Origine du projet
 Dans le cadre de du module d’introduction aux interfaces humain-machine du DUT Informatique. Seule la partie [front-end](#glossaire) du site devait être réalisé. Le sujet était de créer un site web pour l’association Combava, qui a pour but de promouvoir des producteurs d’agrumes du sud de la France. La promotion se fait par des événements (Dégustation) dans toute la métropole. L’organisation veut s’inspirer du concept de David’s Lemonade. Dans les années 50, se multiplie les stands de ventes de citronnade maison, aux États-Unis. Ces stands inspireront l’entreprise David’s Lemonade, reconnaissable avec leur charte graphique reprenant l’écriture d’un enfant faisant une pancarte pour son stand.
 
@@ -87,6 +89,10 @@ Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. Nous a
 ## - V.Correction et validation du code - <a id="correction"></a>
 
 Afin de vérifier que notre code admet pas d’erreur, nous avons passé notre site(1) dans le validateur du site W3C. Nous avons par la suite corrigé les erreurs éventuelles afin qu’il n’y en reste plus. Nous avons également ajouté un logotype proposer par le validateur pour avertir le visiteur et le client que le site est valide.Ce logotype est tout à fait optionnel mais dans le cadre du projet universitaire, cela nous permet d’assurer la conformité du code.
+
+![Maquette sur papier](/image/validation1.JPG)
+
+![Maquette sur papier](/image/validation2.JPG)
 
  (1)*Le fichier index.html et style.css ont été verifié par le validateur. Le fichier pour les mentions légales n’a pas été vérifié car ne servant uniquement pour la version accessible sur internet. Le fichier css a été validé pour des erreurs de CSS niveau 3.*
 
