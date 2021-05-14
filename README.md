@@ -61,16 +61,16 @@ Pour le choix graphique du projet, nous avons choisi de suivre l’identité qu�
 ![Palette de couleur](/image/palette.JPG)
 
 ### 3.2 - La font
-Pour le choix de la font, nous en avons sélectionné deux. La première font est destiné à rappeler le côté manuscrit du style David’s Lemonade, la seconde font permet au visiteur de lire facilement, elle permet un confort des yeux.
+Pour le choix de la font, j'en ai sélectionné deux. La première font est destiné à rappeler le côté manuscrit du style David’s Lemonade, la seconde font permet aux visiteurs de lire facilement, elle permet un confort des yeux.
 
-![Palette de couleur](/image/font1.JPG)
-![Palette de couleur](/image/font2.JPG)
+![Font david's limonade](/image/font1.JPG)
 
-
+![Font classique](/image/font2.JPG)
 
 ###### [Retour sommaire](#sommaire)
 ## - IV.Les maquettes - <a id="maquette"></a>
 
+Pour préparer au mieux le site, j'ai fait un brainstorming sur papier puis fait une maquette en [low-fidelity](#glossaire)
 
 ###### [Retour sommaire](#sommaire)
 ## - V.Correction et validation du code - <a id="correction"></a>
@@ -81,5 +81,7 @@ Termes | Definitions
 -------|------------
 Front-end | Partie visible d’un site web ou d'une application
 Personnas|Utilisateur type de l’application ou du site
+Low-Fidelity| Maquette basse fidélité, concepts qui permet de vérifier de manière rapide la cohérence visuelle d’un produit.
+
 
 ###### [Retour sommaire](#sommaire)
