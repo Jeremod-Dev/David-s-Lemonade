@@ -41,6 +41,9 @@ L’association Combava propose ces événements pour promouvoir les producteurs
 
 *Pour cette partie un étudiant de mon groupe m'a apporté de l'aide.*
 Avant de commencer la conception même du site, nous avons réalisé des [personnas](#glossaire). Ceci permet d’avoir en tête la cible du site, c'est-à-dire les destinataires principaux. Pour cela nous créons des personnes fictives appelée personnas qui représenteront des utilisateurs de base du site web. Nous avons créé 3 personnas.
+
+![Premier Personna](/image/"Premier personna.png")
+![GitHub Logo](/images/logo.png)
 ## - III.La charte graphique - <a id="graphisme"></a>
 ## - IV.Les maquettes - <a id="maquette"></a>
 ## - V.Correction et validation du code - <a id="correction"></a>
