@@ -58,7 +58,15 @@ même vouloir faire des affaires avec les producteurs présent, promu par l'asso
 ### 3.1 - Les couleurs
 Pour le choix graphique du projet, nous avons choisi de suivre l’identité qu’impose David’s Lemonade. Nonobstant, nous avons fait le choix, de moderniser le style avec des tons plus pastel, tout en ayant certaines couleurs vives pour garder ce côté acidulé qui rappelle le produit.
 
+![Palette de couleur](/image/palette.JPG)
+
 ### 3.2 - La font
+Pour le choix de la font, nous en avons sélectionné deux. La première font est destiné à rappeler le côté manuscrit du style David’s Lemonade, la seconde font permet au visiteur de lire facilement, elle permet un confort des yeux.
+
+![Palette de couleur](/image/font1.JPG)
+![Palette de couleur](/image/font2.JPG)
+
+
 
 ###### [Retour sommaire](#sommaire)
 ## - IV.Les maquettes - <a id="maquette"></a>
