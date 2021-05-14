@@ -75,9 +75,20 @@ Pour préparer au mieux le site, j'ai fait un brainstorming sur papier puis fait
 
 Après avoir fait plusieurs essais et obtenu la maquette en low-fidelity. Nous avons continué la maquette, mais cette fois-ci de plus haut niveau. Lorsque nous avons eu notre maquette en low-fidelity, nous avons conçu une maquette pour les smartphones. Pour cette version du site, nous avons fait le choix de la simplicité d’utilisation, car le tactile d’un téléphone portable n’étant pas forcément bien pris en main par l’ensemble de la cible du site. Toutes nos images sont libres de droits trouvé essentiellement sur [pixabay](https://www.pixabay.com).
 
+![Maquette sur papier](/image/maquette2.JPG)
+
+![Maquette sur papier](/image/maquette3.JPG)
+
+![Maquette sur papier](/image/maquette4.JPG)
+
+![Maquette sur papier](/image/maquette5.JPG)
 
 ###### [Retour sommaire](#sommaire)
 ## - V.Correction et validation du code - <a id="correction"></a>
+
+Afin de vérifier que notre code admet pas d’erreur, nous avons passé notre site(1) dans le validateur du site W3C. Nous avons par la suite corrigé les erreurs éventuelles afin qu’il n’y en reste plus. Nous avons également ajouté un logotype proposer par le validateur pour avertir le visiteur et le client que le site est valide.Ce logotype est tout à fait optionnel mais dans le cadre du projet universitaire, cela nous permet d’assurer la conformité du code.
+
+ (1)*Le fichier index.html et style.css ont été verifié par le validateur. Le fichier pour les mentions légales n’a pas été vérifié car ne servant uniquement pour la version accessible sur internet. Le fichier css a été validé pour des erreurs de CSS niveau 3.*
 
 ###### [Retour sommaire](#sommaire)
 ## - Glossaire - <a id="glossaire"></a>
