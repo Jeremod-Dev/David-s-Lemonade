@@ -1,6 +1,6 @@
 # David's Lemonade
 
-[Liens vers le site](https://davids-lemonade-iut.000webhostapp.com/)
+[Liens vers le site](https://davids-lemonade-iut.000webhostapp.com/) *indisponible*
 
 ## Origine du projet
 Dans le cadre de du module d’introduction aux interfaces humain-machine du DUT Informatique. Seule la partie [front-end](#glossaire) du site devait être réalisé. Le sujet était de créer un site web pour l’association Combava, qui a pour but de promouvoir des producteurs d’agrumes du sud de la France. La promotion se fait par des événements (Dégustation) dans toute la métropole. L’organisation veut s’inspirer du concept de David’s Lemonade. Dans les années 50, se multiplie les stands de ventes de citronnade maison, aux États-Unis. Ces stands inspireront l’entreprise David’s Lemonade, reconnaissable avec leur charte graphique reprenant l’écriture d’un enfant faisant une pancarte pour son stand.
